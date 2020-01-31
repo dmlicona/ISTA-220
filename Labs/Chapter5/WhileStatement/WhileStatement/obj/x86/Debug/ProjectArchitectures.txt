@@ -1,0 +1,1 @@
+C:\Users\denys\ISTA220\Labs\Chapter5\WhileStatement\WhileStatement\WhileStatement.csproj;x86

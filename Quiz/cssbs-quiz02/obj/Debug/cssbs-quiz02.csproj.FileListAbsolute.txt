@@ -1,0 +1,6 @@
+C:\Users\denys\ISTA220\Quiz\cssbs-quiz02\obj\Debug\cssbs-quiz02.csprojAssemblyReference.cache
+C:\Users\denys\ISTA220\Quiz\cssbs-quiz02\bin\Debug\cssbs-quiz02.exe.config
+C:\Users\denys\ISTA220\Quiz\cssbs-quiz02\bin\Debug\cssbs-quiz02.exe
+C:\Users\denys\ISTA220\Quiz\cssbs-quiz02\bin\Debug\cssbs-quiz02.pdb
+C:\Users\denys\ISTA220\Quiz\cssbs-quiz02\obj\Debug\cssbs-quiz02.exe
+C:\Users\denys\ISTA220\Quiz\cssbs-quiz02\obj\Debug\cssbs-quiz02.pdb
