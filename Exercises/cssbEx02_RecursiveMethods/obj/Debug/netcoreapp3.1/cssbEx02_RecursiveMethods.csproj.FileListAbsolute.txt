@@ -1,0 +1,11 @@
+C:\Users\denys\ISTA220\Exercises\cssbEx02_RecursiveMethods\bin\Debug\netcoreapp3.1\cssbEx02_RecursiveMethods.exe
+C:\Users\denys\ISTA220\Exercises\cssbEx02_RecursiveMethods\bin\Debug\netcoreapp3.1\cssbEx02_RecursiveMethods.deps.json
+C:\Users\denys\ISTA220\Exercises\cssbEx02_RecursiveMethods\bin\Debug\netcoreapp3.1\cssbEx02_RecursiveMethods.runtimeconfig.json
+C:\Users\denys\ISTA220\Exercises\cssbEx02_RecursiveMethods\bin\Debug\netcoreapp3.1\cssbEx02_RecursiveMethods.runtimeconfig.dev.json
+C:\Users\denys\ISTA220\Exercises\cssbEx02_RecursiveMethods\bin\Debug\netcoreapp3.1\cssbEx02_RecursiveMethods.dll
+C:\Users\denys\ISTA220\Exercises\cssbEx02_RecursiveMethods\bin\Debug\netcoreapp3.1\cssbEx02_RecursiveMethods.pdb
+C:\Users\denys\ISTA220\Exercises\cssbEx02_RecursiveMethods\obj\Debug\netcoreapp3.1\cssbEx02_RecursiveMethods.csprojAssemblyReference.cache
+C:\Users\denys\ISTA220\Exercises\cssbEx02_RecursiveMethods\obj\Debug\netcoreapp3.1\cssbEx02_RecursiveMethods.AssemblyInfoInputs.cache
+C:\Users\denys\ISTA220\Exercises\cssbEx02_RecursiveMethods\obj\Debug\netcoreapp3.1\cssbEx02_RecursiveMethods.AssemblyInfo.cs
+C:\Users\denys\ISTA220\Exercises\cssbEx02_RecursiveMethods\obj\Debug\netcoreapp3.1\cssbEx02_RecursiveMethods.dll
+C:\Users\denys\ISTA220\Exercises\cssbEx02_RecursiveMethods\obj\Debug\netcoreapp3.1\cssbEx02_RecursiveMethods.pdb

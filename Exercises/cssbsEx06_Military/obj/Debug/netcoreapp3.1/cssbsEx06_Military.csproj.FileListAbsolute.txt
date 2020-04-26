@@ -1,0 +1,11 @@
+C:\Users\denys\ISTA220\Exercises\cssbsEx06_Military\bin\Debug\netcoreapp3.1\cssbsEx06_Military.exe
+C:\Users\denys\ISTA220\Exercises\cssbsEx06_Military\bin\Debug\netcoreapp3.1\cssbsEx06_Military.deps.json
+C:\Users\denys\ISTA220\Exercises\cssbsEx06_Military\bin\Debug\netcoreapp3.1\cssbsEx06_Military.runtimeconfig.json
+C:\Users\denys\ISTA220\Exercises\cssbsEx06_Military\bin\Debug\netcoreapp3.1\cssbsEx06_Military.runtimeconfig.dev.json
+C:\Users\denys\ISTA220\Exercises\cssbsEx06_Military\bin\Debug\netcoreapp3.1\cssbsEx06_Military.dll
+C:\Users\denys\ISTA220\Exercises\cssbsEx06_Military\bin\Debug\netcoreapp3.1\cssbsEx06_Military.pdb
+C:\Users\denys\ISTA220\Exercises\cssbsEx06_Military\obj\Debug\netcoreapp3.1\cssbsEx06_Military.csprojAssemblyReference.cache
+C:\Users\denys\ISTA220\Exercises\cssbsEx06_Military\obj\Debug\netcoreapp3.1\cssbsEx06_Military.AssemblyInfoInputs.cache
+C:\Users\denys\ISTA220\Exercises\cssbsEx06_Military\obj\Debug\netcoreapp3.1\cssbsEx06_Military.AssemblyInfo.cs
+C:\Users\denys\ISTA220\Exercises\cssbsEx06_Military\obj\Debug\netcoreapp3.1\cssbsEx06_Military.dll
+C:\Users\denys\ISTA220\Exercises\cssbsEx06_Military\obj\Debug\netcoreapp3.1\cssbsEx06_Military.pdb

@@ -1,0 +1,12 @@
+C:\Users\denys\OneDrive\Training\MSSA\Exercises\cssbsEx01_ConsoleApp\obj\Debug\cssbsEx01_ConsoleApp.csprojAssemblyReference.cache
+C:\Users\denys\OneDrive\Training\MSSA\Exercises\cssbsEx01_ConsoleApp\bin\Debug\cssbsEx01_ConsoleApp.exe.config
+C:\Users\denys\OneDrive\Training\MSSA\Exercises\cssbsEx01_ConsoleApp\bin\Debug\cssbsEx01_ConsoleApp.exe
+C:\Users\denys\OneDrive\Training\MSSA\Exercises\cssbsEx01_ConsoleApp\bin\Debug\cssbsEx01_ConsoleApp.pdb
+C:\Users\denys\OneDrive\Training\MSSA\Exercises\cssbsEx01_ConsoleApp\obj\Debug\cssbsEx01_ConsoleApp.exe
+C:\Users\denys\OneDrive\Training\MSSA\Exercises\cssbsEx01_ConsoleApp\obj\Debug\cssbsEx01_ConsoleApp.pdb
+C:\Users\denys\ISTA220\Exercises\cssbsEx01_ConsoleApp\bin\Debug\cssbsEx01_ConsoleApp.exe.config
+C:\Users\denys\ISTA220\Exercises\cssbsEx01_ConsoleApp\bin\Debug\cssbsEx01_ConsoleApp.exe
+C:\Users\denys\ISTA220\Exercises\cssbsEx01_ConsoleApp\bin\Debug\cssbsEx01_ConsoleApp.pdb
+C:\Users\denys\ISTA220\Exercises\cssbsEx01_ConsoleApp\obj\Debug\cssbsEx01_ConsoleApp.csprojAssemblyReference.cache
+C:\Users\denys\ISTA220\Exercises\cssbsEx01_ConsoleApp\obj\Debug\cssbsEx01_ConsoleApp.exe
+C:\Users\denys\ISTA220\Exercises\cssbsEx01_ConsoleApp\obj\Debug\cssbsEx01_ConsoleApp.pdb

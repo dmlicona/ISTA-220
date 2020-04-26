@@ -1,0 +1,11 @@
+C:\Users\denys\ISTA220\Exercises\cssbs-ex05_Arrays\bin\Debug\netcoreapp3.1\cssbs-ex05_Arrays.exe
+C:\Users\denys\ISTA220\Exercises\cssbs-ex05_Arrays\bin\Debug\netcoreapp3.1\cssbs-ex05_Arrays.deps.json
+C:\Users\denys\ISTA220\Exercises\cssbs-ex05_Arrays\bin\Debug\netcoreapp3.1\cssbs-ex05_Arrays.runtimeconfig.json
+C:\Users\denys\ISTA220\Exercises\cssbs-ex05_Arrays\bin\Debug\netcoreapp3.1\cssbs-ex05_Arrays.runtimeconfig.dev.json
+C:\Users\denys\ISTA220\Exercises\cssbs-ex05_Arrays\bin\Debug\netcoreapp3.1\cssbs-ex05_Arrays.dll
+C:\Users\denys\ISTA220\Exercises\cssbs-ex05_Arrays\bin\Debug\netcoreapp3.1\cssbs-ex05_Arrays.pdb
+C:\Users\denys\ISTA220\Exercises\cssbs-ex05_Arrays\obj\Debug\netcoreapp3.1\cssbs-ex05_Arrays.csprojAssemblyReference.cache
+C:\Users\denys\ISTA220\Exercises\cssbs-ex05_Arrays\obj\Debug\netcoreapp3.1\cssbs-ex05_Arrays.AssemblyInfoInputs.cache
+C:\Users\denys\ISTA220\Exercises\cssbs-ex05_Arrays\obj\Debug\netcoreapp3.1\cssbs-ex05_Arrays.AssemblyInfo.cs
+C:\Users\denys\ISTA220\Exercises\cssbs-ex05_Arrays\obj\Debug\netcoreapp3.1\cssbs-ex05_Arrays.dll
+C:\Users\denys\ISTA220\Exercises\cssbs-ex05_Arrays\obj\Debug\netcoreapp3.1\cssbs-ex05_Arrays.pdb
